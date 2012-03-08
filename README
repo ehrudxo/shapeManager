@@ -1,0 +1,5 @@
+This Project is subset of nodeMap Project
+It supports shape file managing.
+It does not use ogr2ogr(Gdal).
+It use nodejs original IO API.
+
